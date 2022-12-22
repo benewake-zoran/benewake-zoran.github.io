@@ -16,9 +16,9 @@
     "actions":
     [
         {
-            "text": "Viki",
-            "icon": "css/viki_white.svg",
-            "target": "https://vnotex.github.io/viki/"
+            "text": "Benewake",
+            "icon": "benewake_logo.png",
+            "target": "https://www.benewake.com"
         }
     ]
 }
