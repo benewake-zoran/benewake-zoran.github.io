@@ -8,7 +8,7 @@
         },
         {
             "text": "Notebook",
-            "target": "abc/vx.json",
+            "target": "Note/vx.json",
             "navi": true,
             "navi_expand_level": 1
         }
